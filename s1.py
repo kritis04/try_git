@@ -1,3 +1,1 @@
 hello
-heya
-golu
